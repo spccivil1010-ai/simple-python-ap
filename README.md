@@ -1,1 +1,3 @@
-# simple-python-ap
+# Simple Python program
+name = input("What is your name? ")
+print("Hello, " + name + "! Welcome to Python.")
